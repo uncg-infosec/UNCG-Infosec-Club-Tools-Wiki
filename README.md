@@ -4,7 +4,9 @@
 
 ### Kali Linux
 
-(pending write-up)
+Kali Linux is a Penetration Testing oriented Linux distribution. Kali can be installed in many different platforms including, but not limited to, ARM, WSL, Live USB, and even Mobile. Kali comes equipped with plenty of pentesting tools out of the box. You name it, Kali probably has it.
+
+Here is a list of tools available in Kali: https://www.kali.org/tools/
 
 ### Parrot OS
 
